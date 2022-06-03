@@ -1,2 +1,11 @@
-# POWER-BI
-In this repository I prove my knowledge and technical skills using this tool as a Data Analyst.
+# Objectives
+In this section I want to prove my expertise (developing several practical cases) including some important subjects (but not limited):
+- Metrics;
+- Key Performance Indicators (KPIs);
+- Reports;
+- M language;
+- DAX functions;
+- Data modelling (fact and dimension table, star and snowflake schema, primary and foreign keys, etc.);
+- Power Query;
+- DASHBOARDS;
+- Extract, Transform and Load (ETL).
