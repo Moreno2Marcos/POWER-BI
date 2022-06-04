@@ -1,2 +1,2 @@
 # Objective
-In this section saveral dashboards are created in order to support decision making process of different kind of business.
+In this repository you can find several DASHBOARDS approaching diferent business cases in order to create actionable insights and therefore, supporting the decision making process.
