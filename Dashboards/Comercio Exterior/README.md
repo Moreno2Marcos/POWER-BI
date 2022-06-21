@@ -8,3 +8,6 @@ O presente Dashboard simula o Business Case (BC) de uma Empresa que atua no Segm
 ### LINK DO DASHBOARD
 
 https://app.powerbi.com/view?r=eyJrIjoiYmFjZDM4ZTAtNGFmMS00Njg1LWFiMzMtZWFhMTJmYWM4NDUzIiwidCI6IjUzODhmOWY4LTJmYTktNDlkZS1iN2FlLWY2OGQ2YTMwZDk0OSJ9
+  
+### Referência:
+https://www.leticiasmirelli.com/
