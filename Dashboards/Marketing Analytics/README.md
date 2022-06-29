@@ -1,5 +1,5 @@
 ### DESCRIÇÃO DO PROJETO
-Trata-se de um cenário fictício de uma loja online que vende cosméticos. Você como Analista de Dados é responsável de fazer o gerenciamento das campanhas usando unicamente as plataformas Google ADS e Facebook ADS. O gerente de MArketing da loja precisa ter uma visão integradora do desempenho das campanhas em ambas plataformas para tomar oe melhores direcionamentos estratégicos de Marketing, para isso ele pediu a você criar um Dashboard que reuna os seguintes requisitos:
+Trata-se de um cenário fictício de uma loja online que vende cosméticos. Você como Analista de Dados é responsável de fazer o gerenciamento das campanhas usando unicamente as plataformas Google ADS e Facebook ADS. O gerente de MArketing da loja precisa ter uma visão integradora do desempenho das campanhas em ambas as plataformas para tomar os melhores direcionamentos estratégicos de Marketing, para isso ele pediu a você criar um Dashboard que reuna os seguintes requisitos:
 
 ### METRICAS E KPI
 - SPEND > Gasto total com MArketing nas plataformas;
