@@ -12,4 +12,4 @@ O Dashboard pode ser usado como uma ferramenta para a geração de insights e re
 https://app.powerbi.com/view?r=eyJrIjoiZjJlNDM5NjEtOTZkOC00YmY3LWFjNTctMTA5ODUzZTk4NTM1IiwidCI6IjUzODhmOWY4LTJmYTktNDlkZS1iN2FlLWY2OGQ2YTMwZDk0OSJ9&pageName=ReportSection
 
 ### Referência:
-https://www.leticiasmirelli.com/
+Todos os dados e design usados no desenvolvimento deste Dashboard são de propriedade intelectual de https://www.linkedin.com/in/leticiasmirelli/
