@@ -1,5 +1,5 @@
 ### DESCRIÇÃO DO PROJETO
-
+Trata-se de uma empresa fictícia que vende insumos para industrias químicas. No último ano a empresa apresentou um aumento expressivo no índice de reclamações de sues clientes porque muitos pedidos não estão sendo atendidos. Você como analista de qualidade com foco em melhoria contínua deve encontrar a causa raiz do problema e propor um plano de ação usando as principais ferramentas da qualidade como Pareto, Correlação causa -efeito, Gráfico de árvore de perdas, Gráfico de controle, etc.
 
 ### FINAL LAYOUT
 
