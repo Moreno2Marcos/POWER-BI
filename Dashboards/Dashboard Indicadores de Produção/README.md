@@ -11,5 +11,15 @@ Assim, com os possíveis insights extraídos poderia-se reduzir:
 - A degradação da vida útil por cauda das paradas forçadas
 - As perdas econômicas causadas pelas parada forçadas das máquinas
 
+# FINAL LAYOUT
+
+<a href="https://drive.google.com/uc?export=view&id=13kRndcPH5GIkzVLNyK3c6M3KAAmm-cZV"><img src="https://drive.google.com/uc?export=view&id=13kRndcPH5GIkzVLNyK3c6M3KAAmm-cZV" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+
+<a href="https://drive.google.com/uc?export=view&id=1olklmidbkdzr9VfnsqoUUH7s0mWHNzc-"><img src="https://drive.google.com/uc?export=view&id=1olklmidbkdzr9VfnsqoUUH7s0mWHNzc-" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  
+# LINK DO DASHBOARD
+https://app.powerbi.com/view?r=eyJrIjoiOTQ1ZGE1YzYtZmFjMC00MDVkLTk0ODAtNjRjNjQ3ZDU2M2RiIiwidCI6IjUzODhmOWY4LTJmYTktNDlkZS1iN2FlLWY2OGQ2YTMwZDk0OSJ9&pageName=ReportSection
+
+
 # Referência
 https://www.youtube.com/watch?v=_Uc-40O8Y9A
