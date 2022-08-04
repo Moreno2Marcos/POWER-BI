@@ -13,13 +13,12 @@ Assim, com os possíveis insights extraídos poderia-se reduzir:
 
 # FINAL LAYOUT
 
+<a href="https://drive.google.com/uc?export=view&id=1ZatclSMSoARmrFOueZr28kCWMf1uxn_z"><img src="https://drive.google.com/uc?export=view&id=1ZatclSMSoARmrFOueZr28kCWMf1uxn_z" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  
 <a href="https://drive.google.com/uc?export=view&id=13kRndcPH5GIkzVLNyK3c6M3KAAmm-cZV"><img src="https://drive.google.com/uc?export=view&id=13kRndcPH5GIkzVLNyK3c6M3KAAmm-cZV" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
-
-<a href="https://drive.google.com/uc?export=view&id=1olklmidbkdzr9VfnsqoUUH7s0mWHNzc-"><img src="https://drive.google.com/uc?export=view&id=1olklmidbkdzr9VfnsqoUUH7s0mWHNzc-" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
 # LINK DO DASHBOARD
-https://app.powerbi.com/view?r=eyJrIjoiOTQ1ZGE1YzYtZmFjMC00MDVkLTk0ODAtNjRjNjQ3ZDU2M2RiIiwidCI6IjUzODhmOWY4LTJmYTktNDlkZS1iN2FlLWY2OGQ2YTMwZDk0OSJ9&pageName=ReportSection
-
+https://app.powerbi.com/view?r=eyJrIjoiYmRjY2E5ZDQtM2E3Yi00NzNjLTk4NDktYTkwYWRmOWY3ZTEzIiwidCI6IjUzODhmOWY4LTJmYTktNDlkZS1iN2FlLWY2OGQ2YTMwZDk0OSJ9
 
 # Referência
 https://www.youtube.com/watch?v=_Uc-40O8Y9A
