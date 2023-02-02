@@ -6,7 +6,9 @@ Trata-se de uma empresa que atua no setor de Vendas
 
 Analisar o desempenho de Vendas e dos seus Vendedores 
 
-# Print do Dashboard
+# Visual Geral do Dashboard
+
+<a href="https://drive.google.com/uc?export=view&id=1MiQZ5q94hMQYX70QWyEIxeUJa6eaqWSD/view?usp"><img src="https://drive.google.com/uc?export=view&id=1MiQZ5q94hMQYX70QWyEIxeUJa6eaqWSD/view?usp" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 
 # Acesso ao Relatório em Power BI Service
