@@ -9,7 +9,3 @@ Em relação à tomada de decisão / impacto o Dashboard irá mapear indicadores
 **2. LINK DO DASHBOARD EM POWER BI**
 
 https://app.powerbi.com/view?r=eyJrIjoiOGIxOWEyN2MtZjI1My00YTg3LTlkODgtYTIzYTc0NjIxOGFjIiwidCI6IjUzODhmOWY4LTJmYTktNDlkZS1iN2FlLWY2OGQ2YTMwZDk0OSJ9
-
-**3. LINK DO DASHBOARD EM TABLEAU**
-
-https://public.tableau.com/app/profile/iv.n.moreno/viz/TesteTecnico_Involves_IvanMoreno/VisoGerncial
